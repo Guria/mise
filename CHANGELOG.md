@@ -1,5 +1,11 @@
 # Changelog
 
+## [2024.11.16](https://github.com/jdx/mise/compare/v2024.11.15..v2024.11.16) - 2024-11-16
+
+### 🐛 Bug Fixes
+
+- bugs with `mise up` and prefix: versions by [@jdx](https://github.com/jdx) in [#3054](https://github.com/jdx/mise/pull/3054)
+
 ## [2024.11.15](https://github.com/jdx/mise/compare/v2024.11.14..v2024.11.15) - 2024-11-16
 
 ### 🐛 Bug Fixes
